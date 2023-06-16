@@ -1,4 +1,4 @@
-# Plataforma Fincas
+# Plataforma Solfeando
 
 ## Este sitio usa Laravel Framework 10
 
@@ -14,11 +14,11 @@
 	/usr/local/bin/ea-php73 /home/*nombre de usuario del servidor*/public_html/public/artisan schedule:run >> /dev/null 2>&1
       
 ##### Para iniciar el proyecto:
-      http://127.0.0.1/plataformafincas/public
+      http://127.0.0.1/solfeando/public
       
 ##### Recuerde importar el script SQL y cambiar los datos de conexion en el archivo .env
-      /plataformafincas/.env      
+      /solfeando/.env      
 
 ## Acerca del modelo UML, respaldo de la BD y diccionario de datos
 ##### En este directorio
-         plataformafincas/database
+         solfeando/database
